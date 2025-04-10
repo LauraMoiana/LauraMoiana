@@ -1,4 +1,4 @@
-## Hi there, I'm Laura 👋
+## Hi there 👋, I'm Laura!
 
 <!--
 **LauraMoiana/LauraMoiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
