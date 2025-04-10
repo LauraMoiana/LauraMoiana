@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 • 🩻 MSc student in Biomedical Engineering
+
 • 💻 Currently working on my master thesis at AI-ON-Lab
 <div align="center"> 
   <p>Visitor count</p>
